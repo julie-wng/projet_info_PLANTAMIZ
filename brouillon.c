@@ -31,7 +31,7 @@ void afficherObjet(char **plateau,char c, int x, int y, int couleur) {
 char genererItem() {
     int val = rand()%5;
     char item;
-    switch (val) {
+    switch (val) { 
         case 0:
             item = 'S'; //Soleil
             break;
