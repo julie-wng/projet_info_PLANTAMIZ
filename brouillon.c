@@ -5,7 +5,7 @@
 
 #define LIGNE 5
 #define COLONNE 10
-
+ 
 int menu() {
     int choix;
     printf("\n1. Jouer");
