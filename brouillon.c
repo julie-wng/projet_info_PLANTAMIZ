@@ -89,6 +89,9 @@ void manger_item(char **plateau){
 
 
 
+
+
+
 int main(){
     srand(time(NULL));
     char **plateau = malloc(LIGNE*sizeof(char));
