@@ -98,3 +98,5 @@ void show_cursor(){
     inf.bVisible=1;
     SetConsoleCursorInfo(cH,&inf);
 }
+
+
